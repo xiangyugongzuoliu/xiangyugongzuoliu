@@ -44,7 +44,7 @@
 - 📰 [官网博客 xiangyugongzuoliu.com](https://xiangyugongzuoliu.com) — 深度长文
 - ✉️ [公众号「**翔宇工作流**」](https://xiangyugongzuoliu.com/wechat/) — 每周一篇精选
 - 🐦 [X @xiangyuworkflow](https://x.com/xiangyuworkflow) — 日常分享
-- 🎓 [AI 编程实操课](https://flowus.cn/xiangyugongzuoliu/share/d392dcad-b537-44ee-a3e2-56ff5af02bce) — 系统化付费课程
+- 🎓 [AI编程实操课](https://flowus.cn/xiangyugongzuoliu/share/d392dcad-b537-44ee-a3e2-56ff5af02bce) — 系统化付费课程
 
 ---
 
